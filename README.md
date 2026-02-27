@@ -16,7 +16,7 @@ This project delivers a robust data analytics solution for triaging 10,000+ clin
 * **Risk Heatmap:** Built a multi-page dashboard featuring a heatmap that cross-references age and diagnostic history to highlight high-IOP outliers.
 
 ## 📈 Dashboard Preview
-![Ocular Health Dashboard](Dashboard.jpg)
+![Ocular Health Dashboard](Dashboard_pages-to-jpg-0001.jpg)
 
 ## 📁 Repository Structure
 * `cleaning.py`: Python script for data standardization and outlier handling.
